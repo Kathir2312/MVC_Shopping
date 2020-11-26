@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staticweb", "Staticweb\Staticweb.csproj", "{21E11EB4-DE33-4AA8-B7AA-3DEE90F1E57A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionApp", "FunctionApp\FunctionApp.csproj", "{D4AE8620-8AAA-4E67-95B9-98ACAD32097A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{21E11EB4-DE33-4AA8-B7AA-3DEE90F1E57A}.Release|x64.Build.0 = Release|Any CPU
 		{21E11EB4-DE33-4AA8-B7AA-3DEE90F1E57A}.Release|x86.ActiveCfg = Release|Any CPU
 		{21E11EB4-DE33-4AA8-B7AA-3DEE90F1E57A}.Release|x86.Build.0 = Release|Any CPU
+		{D4AE8620-8AAA-4E67-95B9-98ACAD32097A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4AE8620-8AAA-4E67-95B9-98ACAD32097A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4AE8620-8AAA-4E67-95B9-98ACAD32097A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D4AE8620-8AAA-4E67-95B9-98ACAD32097A}.Debug|x64.Build.0 = Debug|Any CPU
+		{D4AE8620-8AAA-4E67-95B9-98ACAD32097A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D4AE8620-8AAA-4E67-95B9-98ACAD32097A}.Debug|x86.Build.0 = Debug|Any CPU
+		{D4AE8620-8AAA-4E67-95B9-98ACAD32097A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4AE8620-8AAA-4E67-95B9-98ACAD32097A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4AE8620-8AAA-4E67-95B9-98ACAD32097A}.Release|x64.ActiveCfg = Release|Any CPU
+		{D4AE8620-8AAA-4E67-95B9-98ACAD32097A}.Release|x64.Build.0 = Release|Any CPU
+		{D4AE8620-8AAA-4E67-95B9-98ACAD32097A}.Release|x86.ActiveCfg = Release|Any CPU
+		{D4AE8620-8AAA-4E67-95B9-98ACAD32097A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
